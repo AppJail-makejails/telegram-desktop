@@ -13,7 +13,7 @@ Features:
 
 wikipedia.org/wiki/Telegram_(software)
 
-<img src="https://raw.githubusercontent.com/AppJail-makejails/telegram-desktop/refs/heads/main/telegram-desktop/telegram-desktop.png" width="30%" height="auto" alt="telegram-desktop logo">
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/960px-Telegram_2019_Logo.svg.png" width="30%" height="auto" alt="telegram-desktop logo">
 
 ## How to use this AppJail
 
