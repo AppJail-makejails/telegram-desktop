@@ -16,7 +16,7 @@ RUN set -xe; \
     sysrc clear_tmp_X=NO; \
     \
     pkg update; \
-    pkg install telegram-desktop dbus rtkit-unix; \
+    pkg install telegram-desktop rtkit-unix webkit2-gtk_60; \
     \
     if [ -z "${NO_PKGCLEAN}" ]; then \
         pkg clean -a; \
